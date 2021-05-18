@@ -51,7 +51,6 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\Script\SoliderController.cs" />
-     <Compile Include="Assets\Script\SolidierAnim.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>/Users/fengxiaosong/Desktop/Unity项目/Soldier Animation/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
